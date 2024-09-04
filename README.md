@@ -15,7 +15,9 @@ Matrix C = [[ 3.1243 3.0989 3.1256 ] , [ 2.6721 3.6785 3.9017] , [1.1254 2.8956,
 2) Write a Python Program and perform the following operations ?
 
 I. Create a List {1225, 4986, 6789, 7890, 2345, 6783, 0987, 1234, 8765, 3456} 
-II. Iterate using a for loop 
+
+II. Iterate using a for loop
+
 III. Iterate using for loop and range 
 IV. List Comprehension 
 V. Enumerate 
