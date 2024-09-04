@@ -4,6 +4,7 @@ Use Profiling
 1) Define the following metrics and perform the following operations
 
 i) Write a Python program using Python Lists
+
 ii) Write a Python program and NumPy
 
 Matrix A = [[ 3.7827 3.3454 3.2341] , [ 2.2122 3.5678 3.9087] , [1.1234 2.8934, 5.9087]].
