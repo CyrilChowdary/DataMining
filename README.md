@@ -18,12 +18,18 @@ I. Create a List {1225, 4986, 6789, 7890, 2345, 6783, 0987, 1234, 8765, 3456}
 
 II. Iterate using a for loop
 
-III. Iterate using for loop and range 
-IV. List Comprehension 
-V. Enumerate 
-VI. Iter function and next function 
-VII. Map function 
-VIII. Using zip 
+III. Iterate using for loop and range
+
+IV. List Comprehension
+
+V. Enumerate
+
+VI. Iter function and next function
+
+VII. Map function
+
+VIII. Using zip
+
 IX. Using NumPy Module
 
 3) For a List A, B, C, D, E write a python program to compute all the combinations and permutations
